@@ -1,0 +1,5 @@
+flask==2.2.2
+psycopg2==2.9.5
+sentry-sdk[flask]==1.10.1
+sqlalchemy==1.4.42
+waitress==2.1.2
